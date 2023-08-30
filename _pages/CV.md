@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
 Education
 ======
 * B.S. in physics, Sichuan University, 2022
@@ -18,10 +16,8 @@ Education
 
 Notes
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io//publications/files/Ellabvar.pdf)
+* [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io//publications/files/sigmaorientation.pdf)
 Talks
 ======
   <ul>{% for post in site.talks %}
