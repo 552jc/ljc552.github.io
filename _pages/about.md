@@ -12,6 +12,6 @@ I'm a second year postgraduate student from [Southern University of Science and 
 
 Contact
 ======
-Email: [abcaiyukang@qq.com](abcaiyukang@qq.com)
+Email: abcaiyukang@qq.com
 
 Office: M5021, Department of Mathematics, College of Science, Southern University of Science and Technology
