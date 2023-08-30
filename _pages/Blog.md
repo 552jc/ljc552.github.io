@@ -1,7 +1,10 @@
 ---
-permalink: /blog/
-title: "Blog"
-author_profile: flase
+permalink: /markdown/
+title: "Markdown"
+author_profile: false
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 I have a blog in Chinese society, which aimed to record my studying inspiration and experience.
