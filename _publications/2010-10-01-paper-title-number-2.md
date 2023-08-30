@@ -3,7 +3,7 @@ title: "Elliptic cohomology theories and the σ-orientation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 
-date: 2010-10-01
+date: 2023-6-22
 
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
