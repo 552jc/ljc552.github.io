@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.S. in physics, Sichuan University, 2022
