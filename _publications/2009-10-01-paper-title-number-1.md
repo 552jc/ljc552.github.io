@@ -10,4 +10,4 @@ paperurl: 'https://552jc.github.io/ljc552.github.io//publications/files/Notes on
 ---
 The notes.
 
-[Download](https://552jc.github.io/ljc552.github.io//publications/files/Notes on elliptic curves and abelian varieties.pdf)
+[Download](https://552jc.github.io/ljc552.github.io//publications/files/Ellabvar.pdf)
