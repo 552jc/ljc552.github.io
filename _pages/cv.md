@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 * B.S. in physics, Sichuan University, 2022
 * M.S. in mathematics, Southern University of Science and Technology, 2024 (expected)
 
-Notes
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io//publications/files/Ellabvar.pdf)
+* [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io//publications/files/sigmaorientation.pdf)
   
 Talks
 ======
