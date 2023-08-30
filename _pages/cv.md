@@ -12,6 +12,7 @@ redirect_from:
 * B.S. in physics, Sichuan University, 2022
 * M.S. in mathematics, Southern University of Science and Technology, 2024 (expected)
 
+Notes
 ======
 * [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io//publications/files/Ellabvar.pdf)
 * [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io//publications/files/sigmaorientation.pdf)
