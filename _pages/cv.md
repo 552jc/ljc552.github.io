@@ -14,9 +14,9 @@ redirect_from:
 
 Notes
 ======
+* [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf)
 * [The Right Adjunction of Thom spectrum Functor](https://552jc.github.io/ljc552.github.io/files/thomsp.pdf)
 * [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf)
-* [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf)
   
 Talks
 ======
