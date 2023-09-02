@@ -26,5 +26,5 @@ Talks
   
 Teaching
 ======
-* Teaching assistant for MA201b(ordinary differential equation), Spring 2023.
+* Teaching assistant for MA201b(Ordinary Differential Equation), Spring 2023.
 * Grader for [MAT8021, Spring 2023](https://yifeizhu.github.io/8021/2023/) (Algebraic topology).
