@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I have a [blog](https://www.zhihu.com/people/liang-jia-cheng-60-11/posts) in Chinese, which witnessed my studying process in mathematics during my undergraduate. Hopefully, it could provide a glimpse of algebraic topology to young students or scholars in other fields with interest in it.
+I write [blog posts](https://www.zhihu.com/people/liang-jia-cheng-60-11/posts) on mathematics as a means to digest what I am learning and to communicate with others.
 
 Posts
 ======
