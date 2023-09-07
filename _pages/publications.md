@@ -8,7 +8,7 @@ My research interests broadly lie in the connection between stable homotopy theo
 
 Notes
 ======
-* [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf)
+* [Elliptic cohomology theories and the σ-orientation(unfinished)](https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf)
 * [The Right Adjunction of Thom spectrum Functor](https://552jc.github.io/ljc552.github.io/files/thomsp.pdf)
 * [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf)
 
