@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I write [blog posts](https://www.zhihu.com/people/liang-jia-cheng-60-11/posts) on mathematics as a means to organize what I have learnt and to communicate with others. Hopefully, they could also provide a glimpse of algebraic topology to students or scholars in different fields with interest in it.
+I write [blog posts](https://www.zhihu.com/people/liang-jia-cheng-60-11/posts) (most in Chinese) on mathematics as a means to organize what I have learnt and to communicate with others. Hopefully, they could also provide a glimpse of algebraic topology to students or scholars in different fields with interest in it.
 
 Posts
 ======
