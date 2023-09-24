@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year postgraduate student from [SUSTech](https://www.sustech.edu.cn/en/) advised by [Prof. Yifei Zhu](https://yifeizhu.github.io/) of [Department of Mathematics](https://math.sustech.edu.cn/?lang=en). I am interested in homotopy theory and algebraic geometry. 
+I am a second year postgraduate student from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)(SUSTech) advised by [Prof. Yifei Zhu](https://yifeizhu.github.io/) of [Department of Mathematics](https://math.sustech.edu.cn/?lang=en). I am interested in homotopy theory and algebraic geometry. 
 
 Contact
 ======
