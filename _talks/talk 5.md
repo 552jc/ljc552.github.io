@@ -1,5 +1,5 @@
 ---
-title: "The σ-orientation and its AHR $E_{\infty}$-refinement $Mstring\to tmf$"
+title: "The σ-orientation and its AHR E_∞-refinement Mstring to tmf"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-5
