@@ -8,4 +8,4 @@ date: 2023-8-17
 location: "BIMSA, Beijing, China"
 ---
 
-[draft](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)
+[Script](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)
