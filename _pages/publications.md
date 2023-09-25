@@ -13,17 +13,13 @@ Notes
 * [The Right Adjunction of Thom spectrum Functor](https://552jc.github.io/ljc552.github.io/files/thomsp.pdf)
 * [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf)
 
----
-title: "The σ-orientation and its AHR E_∞-refinement Mstring to tmf"
-collection: talks
-type: "Talk"
-permalink: /talks/talk-5
-venue: "IWoAT Summer School 2023: Operads, spectra, and multiplicative structures"
-date: 2023-8-17
-location: "BIMSA, Beijing, China"
----
+Talks
+======
+* [The σ-orientation and its AHR E_∞-refinement Mstring to tmf](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)
+IWoAT Summer School 2023: Operads, spectra, and multiplicative structures,BIMSA, Beijing, China, 2023-8-17
+* [Thom spectra, infinite loop spaces, generalized cocycles, and the σ-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)
 
-[Script](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)
+
 
 
 {% if author.googlescholar %}
