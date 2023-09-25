@@ -15,7 +15,7 @@ Notes
 
 Talks
 ======
-* [The σ-orientation and its AHR E_∞-refinement Mstring to tmf](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)
+* [The σ-orientation and its AHR E_∞-refinement Mstring to tmf](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>
 IWoAT Summer School 2023: Operads, spectra, and multiplicative structures,BIMSA, Beijing, China, 2023-8-17
 * [Thom spectra, infinite loop spaces, generalized cocycles, and the σ-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)
 
