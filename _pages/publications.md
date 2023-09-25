@@ -21,8 +21,8 @@ Talks
 * [Elliptic curves and Abelian varieties](https://552jc.github.io/ljc552.github.io/files/Thesis.pdf)<br>Undergraduate topology seminar, Sichuan University, May 30, 2022
 * Monads, E_∞-spectra and model categories<br>Graduate Topology Seminar at SUSTech, December 01, 2021
 * [The Stable homotopy theory and EKMM framework](https://552jc.github.io/ljc552.github.io/files/2021_12_28.pdf)<br>Graduate Topology Seminar at SUSTech, December 01, 2021
-* Bousfield Localization and K(n)-local stable homotopy theory<br>Undergraduate topology seminar at Sichuan University, March 22, 2021
-* Landweber exact theorem and Lubin-Tate spectra<br>Undergraduate topology seminar at Sichuan University, November 02, 2020
+* <strong>Bousfield Localization and K(n)-local stable homotopy theory</strong><br>Undergraduate topology seminar at Sichuan University, March 22, 2021
+* <strong>Landweber exact theorem and Lubin-Tate spectra</strong><br>Undergraduate topology seminar at Sichuan University, November 02, 2020
 * Quillen’s theorem: complex cobordism and formal groups<br>Undergraduate topology seminar at Sichuan University, September 30, 2020
 * MO is a graded E-M spectrum by calculating Steenrod operations<br>Undergraduate topology seminar at Sichuan University, June 21, 2020
 * Characteristic classes from viewpoint of algebraic topology<br>Undergraduate topology seminar at Sichuan University, March 13, 2020
