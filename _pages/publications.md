@@ -4,7 +4,7 @@ title: "Research Interests"
 permalink: /publications/
 author_profile: false
 ---
-My research interests broadly lie in the connection between stable homotopy theory and algebraic geometry like chromatic homotopy theory, elliptic cohomology theories, and spectral algebraic geometry. Specifically, I am interested in the (E_∞)orientation from Thom spectra, reformulations of chromatic homotopy theory by formal (spectral) algebraic geometry, and spectral moduli problems.
+My research interests broadly lie in the connection between stable homotopy theory and algebraic geometry like chromatic homotopy theory, elliptic cohomology theories, and spectral algebraic geometry. Specifically, I am interested in the ($E_{\infty}$)orientation from Thom spectra, reformulations of chromatic homotopy theory by formal (spectral) algebraic geometry, and spectral moduli problems.
 
 Notes
 ======
