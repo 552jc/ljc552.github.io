@@ -15,7 +15,7 @@ Notes
 
 Talks
 ======
-* [The σ-orientation and its AHR $E_{\infty}$-refinement Mstring to tmf](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, August 17, 2023
+* [The σ-orientation and its AHR $E_{\infty}$-refinement $MString\to tmf$](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, August 17, 2023
 * [Thom spectra, infinite loop spaces, generalized cocycles, and the $\sigma$-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)<br>Graduate Topology Seminar at SUSTech, May 23, 2023
 * [Sites, Sheaves, Formal Groups and Stacks](https://sustech-topology.github.io/grad/22fal/FormalGeometry.pdf)<br>Graduate Topology Seminar at SUSTech, December 06, 2022
 * [Elliptic curves and Abelian varieties](https://552jc.github.io/ljc552.github.io/files/Thesis.pdf)<br>Undergraduate topology seminar, Sichuan University, May 30, 2022
