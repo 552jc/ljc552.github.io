@@ -9,7 +9,7 @@ My research interests broadly lie in the connection between stable homotopy theo
 Notes
 ======
 * [Elliptic cohomology theories and the σ-orientation](https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf)<br>Ando-Hopkins-Strickland found a special orientation from Thom spectra to elliptic cohomology theories, called σ-orientation. It gives an insight of the connection between the orientation and (formal) algebraic geometry. In this note we will give both topological and algebro-geometric settings of σ-orientation. Furthermore, we will introduce the precise definitions of formal groups, line bundles on a formal (Lie) group, and particularly the n-connective cover of an E_∞-space, which seems not well-described in any previous references.
-* [Postnikov-type convergence in ∞-categorical framework](https://552jc.github.io/ljc552.github.io/files/convergence.pdf)
+* [Postnikov-type convergence in ∞-categorical framework](https://552jc.github.io/ljc552.github.io/files/convergence.pdf)<br>Lurie introduced an ∞-categorical framework for the postnikov tower in a presentable ∞-category. Here we will generalize it in the case that an ascending sequence of reflective full subcategories of an ∞-category is given.
 * [The Right Adjunction of Thom spectrum Functor](https://552jc.github.io/ljc552.github.io/files/thomsp.pdf)
 * [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf)
 
