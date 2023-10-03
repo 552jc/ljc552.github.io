@@ -21,7 +21,7 @@ Talks
 * [Elliptic curves and Abelian varieties](https://552jc.github.io/ljc552.github.io/files/Thesis.pdf)<br>Undergraduate topology seminar, Sichuan University, May 30, 2022
 * <strong>Monads, $E_{\infty}$-spectra and model categories</strong><br>Graduate Topology Seminar at SUSTech, December 01, 2021
 * [The Stable homotopy theory and EKMM framework](https://552jc.github.io/ljc552.github.io/files/2021_12_28.pdf)<br>Graduate Topology Seminar at SUSTech, November 18, 2021
-* Even earlier, I gave talks on [On Thom Spectra, Orientability, and Cobordism](https://link.springer.com/book/10.1007/978-3-540-77751-9) and more at Undergraduate topology seminar of Sichuan University.
+* Even earlier, I gave talks on ["On Thom Spectra, Orientability, and Cobordism"](https://link.springer.com/book/10.1007/978-3-540-77751-9) and more at Undergraduate topology seminar of Sichuan University.
 
 
 
