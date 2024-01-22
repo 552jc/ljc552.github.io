@@ -11,6 +11,7 @@ I write [blog posts](https://www.zhihu.com/people/liang-jia-cheng-60-11/posts) (
 
 Posts
 ======
+* [How to learn $\infty$-categories and higher algebra in a practical way](https://www.zhihu.com/question/454580125/answer/3370483806)
 * [Lubin-Tate theory and deformations of Formal groups](https://zhuanlan.zhihu.com/p/304919267)
 * [Stable Homotopy——历史的一点感想](https://zhuanlan.zhihu.com/p/350835933)<br>Stable Homotopy--A little historical sentiment
 * [Homotopy Colimits and Strong Landweber Theorem](https://zhuanlan.zhihu.com/p/259629595)
