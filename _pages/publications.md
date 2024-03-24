@@ -15,6 +15,7 @@ Notes
 
 Talks
 ======
+* [Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories](https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/3/19
 * [An overview of $\infty$-categories and higher algebra](https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/12/26
 * [The σ-orientation and its AHR $E_{\infty}$-refinement $MString\to tmf$](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, 2023/08/17
 * [Thom spectra, infinite loop spaces, generalized cocycles, and the $\sigma$-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/05/23
