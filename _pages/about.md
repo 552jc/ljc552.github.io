@@ -14,6 +14,6 @@ My CV is available [here](https://552jc.github.io/ljc552.github.io/files/resume.
 
 Contact
 ======
-Email: abcaiyukang@qq.com
+Email: jliang66@jhu.edu
 
 Office: M5021, Department of Mathematics, College of Science, Southern University of Science and Technology
