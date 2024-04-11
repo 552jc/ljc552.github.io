@@ -13,7 +13,7 @@ Notes
 * [The Right Adjunction of Thom spectrum Functor](https://552jc.github.io/ljc552.github.io/files/thomsp.pdf)<br>A specific description of the right adjoint functor to Thom spectrum functor, which is given by the total space of a fiber bundle with fibers infinite loop spaces.
 * [Notes on elliptic curves and abelian varieties](https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf)<br>This note will provide an introduction to formal groups, elliptic curves and abelian varieties. We first how to get a natural formal group from a smooth group variety. Second we prove that any elliptic curve admits a natural structure of group variety by a technique about relative effective Cartier divisor. After that, we introduce étale-local decomposition and the quotient scheme. In the last chapter we will see that elliptic curves are exactly abelian varieties of $\operatorname{dim}=1$ and that any abelian variety is automatically commutative, smooth and projective. Furthermore we can see that the group structure on an abelian variety is unique under a prescribed unit. 
 
-Talks
+Talks and slides
 ======
 * [Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories](https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/3/19
 * [An overview of $\infty$-categories and higher algebra](https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/12/26
