@@ -9,6 +9,7 @@ My research interests broadly lie in the connections among stable homotopy theor
 
 Talks and slides
 ======
+* [$\infty$-topoi and parametrized homotopy theory](https://552jc.github.io/ljc552.github.io/files/infty_topos.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/6/17
 * [Picard $\infty$-groupoids, Picard groups of $E_\infty$-rings and generalized Thom spectra](https://552jc.github.io/ljc552.github.io/files/Picard_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/4/23 <br> In this talk, we will introduce the Picard $\infty$-groupoids and calculate Picard groups of several $\mathbb{E}_\infty$-rings, like K-theory spectra and topological modular forms. Besides, we also introduce how to generalize the Thom spectrum functor into any presentably symmetric monoidal $\infty$-category, by using the universal property of Picard $\infty$-groupoids.
 * [Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories](https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/3/19<br>In this talk, we will introduce the $\infty$-categorical version of the Barr-Beck theorem, Morita theory and Brauer groups.  And we will see that the Brauer group $\operatorname{Br}(\mathbb{S})$ of the sphere spectrum is zero using the spectral sequence involving the etale cohomology by Antieau–Gepner's work in 2012.
 * [An overview of $\infty$-categories and higher algebra](https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/12/26
