@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year postgraduate student from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)(SUSTech), advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/). And I will be a fresh new Ph.D. student at [Johns Hopkins University](https://mathematics.jhu.edu/) in 2024 Fall, advised by Prof. David Gepner. I am interested in homotopy theory and algebraic geometry. 
+I am a first-year Ph.D. student at [Johns Hopkins University](https://mathematics.jhu.edu/) starting in 2024 Fall, advised by Prof. David Gepner. I am interested in homotopy theory and algebraic geometry. I was a postgraduate student from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)(SUSTech), advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/). Before that, I was a physics undergraduate at Sichuan University.
 
 My CV is available [here](https://552jc.github.io/ljc552.github.io/files/resume.pdf).
 
