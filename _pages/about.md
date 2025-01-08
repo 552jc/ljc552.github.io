@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at [Johns Hopkins University](https://mathematics.jhu.edu/) starting in 2024 Fall, advised by Prof. David Gepner. I am interested in homotopy theory and algebraic geometry. I was a postgraduate student from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)(SUSTech), advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/). Before that, I was a physics undergraduate at Sichuan University.
+I am a first-year Ph.D. student at [Johns Hopkins University](https://mathematics.jhu.edu/), commencing in the Fall of 2024 under the supervision of Professor David Gepner. My research interests lie in homotopy theory, higher algebra, and algebraic geometry. Previously, I completed my Master's degree at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)(SUSTech) under the guidance of Professor [Yifei Zhu](https://yifeizhu.github.io/). Prior to that, I obtained my undergraduate degree in physics from Sichuan University.
 
 My CV is available [here](https://552jc.github.io/ljc552.github.io/files/resume.pdf).
 
 Contact
 ======
 Email: jliang66@jhu.edu
-
-Office: M5021, Department of Mathematics, College of Science, Southern University of Science and Technology
