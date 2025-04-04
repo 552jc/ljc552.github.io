@@ -20,7 +20,6 @@ Talks and slides
 * [Thom spectra, infinite loop spaces, generalized cocycles, and the $\sigma$-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/05/23
 * [Sites, Sheaves, Formal Groups and Stacks](https://sustech-topology.github.io/grad/22fal/FormalGeometry.pdf)<br>Graduate Topology Seminar at SUSTech, 2022/12/06
 * [Elliptic curves and Abelian varieties](https://552jc.github.io/ljc552.github.io/files/Thesis.pdf)<br>Undergraduate topology seminar, Sichuan University, 2022/05/30
-* <strong>Monads, $\mathbb{E}_{\infty}$-spectra and model categories</strong><br>Graduate Topology Seminar at SUSTech, 2021/12/01
 * [The Stable homotopy theory and EKMM framework](https://552jc.github.io/ljc552.github.io/files/2021_12_28.pdf)<br>Graduate Topology Seminar at SUSTech, 2021/11/18
 * Even earlier, I gave talks on ["On Thom Spectra, Orientability, and Cobordism"](https://link.springer.com/book/10.1007/978-3-540-77751-9) and more at Undergraduate topology seminar of Sichuan University.
 
