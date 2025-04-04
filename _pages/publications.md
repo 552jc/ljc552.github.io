@@ -6,18 +6,21 @@ author_profile: false
 ---
 My research interests broadly lie in the connections among stable homotopy theory, higher algebra and algebraic geometry like chromatic homotopy theory, elliptic cohomology, and spectral algebraic geometry (SAG). Specifically, I am interested in orientations from Thom spectra, rewritings of stable homotopy theory by higher algebra, reformulations of chromatic homotopy theory by SAG, and spectral moduli problems.
 
+Preprints
+======
+* __Higher algebra in t-structured tensor triangulated $\infty$-categories__ (joint with Xiangrui Shen; in preparation)<br>We observe that many concepts from Lurie's Higher Algebra can be generalized to the setting of t-structured tt-∞-categories, including notions such as flatness, and étale morphisms. Under suitable conditions on a tt-∞-category, we can establish Lazard's theorem, étale rigidity, and the universal property of the derived category, among others.
 
 Talks and slides
 ======
 * [$\infty$-topoi and parametrized homotopy theory](https://552jc.github.io/ljc552.github.io/files/infty_topos.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/6/17
-* [Picard $\infty$-groupoids, Picard groups of $E_\infty$-rings and generalized Thom spectra](https://552jc.github.io/ljc552.github.io/files/Picard_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/4/23 <br> In this talk, we will introduce the Picard $\infty$-groupoids and calculate Picard groups of several $\mathbb{E}_\infty$-rings, like K-theory spectra and topological modular forms. Besides, we also introduce how to generalize the Thom spectrum functor into any presentably symmetric monoidal $\infty$-category, by using the universal property of Picard $\infty$-groupoids.
+* [Picard $\infty$-groupoids, Picard groups of $\mathbb{E}_{\infty}$-rings and generalized Thom spectra](https://552jc.github.io/ljc552.github.io/files/Picard_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/4/23 <br> In this talk, we will introduce the Picard $\infty$-groupoids and calculate Picard groups of several $\mathbb{E}_\infty$-rings, like K-theory spectra and topological modular forms. Besides, we also introduce how to generalize the Thom spectrum functor into any presentably symmetric monoidal $\infty$-category, by using the universal property of Picard $\infty$-groupoids.
 * [Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories](https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf)<br>Graduate Topology Seminar at SUSTech, 2024/3/19<br>In this talk, we will introduce the $\infty$-categorical version of the Barr-Beck theorem, Morita theory and Brauer groups.  And we will see that the Brauer group $\operatorname{Br}(\mathbb{S})$ of the sphere spectrum is zero using the spectral sequence involving the etale cohomology by Antieau–Gepner's work in 2012.
 * [An overview of $\infty$-categories and higher algebra](https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/12/26
-* [The σ-orientation and its AHR $E_{\infty}$-refinement $MString\to tmf$](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, 2023/08/17
+* [The σ-orientation and its AHR $\mathbb{E}_{\infty}$-refinement $MString\to tmf$](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, 2023/08/17
 * [Thom spectra, infinite loop spaces, generalized cocycles, and the $\sigma$-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)<br>Graduate Topology Seminar at SUSTech, 2023/05/23
 * [Sites, Sheaves, Formal Groups and Stacks](https://sustech-topology.github.io/grad/22fal/FormalGeometry.pdf)<br>Graduate Topology Seminar at SUSTech, 2022/12/06
 * [Elliptic curves and Abelian varieties](https://552jc.github.io/ljc552.github.io/files/Thesis.pdf)<br>Undergraduate topology seminar, Sichuan University, 2022/05/30
-* <strong>Monads, $E_{\infty}$-spectra and model categories</strong><br>Graduate Topology Seminar at SUSTech, 2021/12/01
+* <strong>Monads, $\mathbb{E}_{\infty}$-spectra and model categories</strong><br>Graduate Topology Seminar at SUSTech, 2021/12/01
 * [The Stable homotopy theory and EKMM framework](https://552jc.github.io/ljc552.github.io/files/2021_12_28.pdf)<br>Graduate Topology Seminar at SUSTech, 2021/11/18
 * Even earlier, I gave talks on ["On Thom Spectra, Orientability, and Cobordism"](https://link.springer.com/book/10.1007/978-3-540-77751-9) and more at Undergraduate topology seminar of Sichuan University.
 
