@@ -24,7 +24,7 @@ Talks and slides
 
 Notes
 ======
-* [Copointedlization and costabilization](https://552jc.github.io/ljc552.github.io/files/Sp_fin.pdf)<br>A concrete model of costabilization
+<!-- * [Copointedlization and costabilization](https://552jc.github.io/ljc552.github.io/files/Sp_fin.pdf)<br>A concrete model of costabilization -->
 * [Elliptic cohomology theories and the $\sigma$-orientation](https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf)<br>Ando-Hopkins-Strickland found a special orientation from $MU\langle 6\rangle$ to elliptic cohomology theories, called $\sigma$-orientation. In this note we will give both topological and algebro-geometric settings of $\sigma$-orientation. Furthermore, we will introduce the precise definitions of formal groups, line bundles on a formal group, and particularly the $n$-connective cover of an $E_{\infty}$-space, which seems not well-described in ordinary references.
 * [Postnikov-type convergence in $\infty$-categorical framework](https://552jc.github.io/ljc552.github.io/files/convergence.pdf)<br>Lurie introduced an $\infty$-categorical framework for the postnikov tower in a presentable $\infty$-category in his HTT. Here we will generalize it to the case of any ascending sequence of reflective full subcategories in an $\infty$-category.
 * [The Right Adjunction of Thom spectrum Functor](https://552jc.github.io/ljc552.github.io/files/thomsp.pdf)<br>A specific description of the right adjoint functor to Thom spectrum functor, which is given by the total space of a fiber bundle with fibers infinite loop spaces.
