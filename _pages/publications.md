@@ -8,7 +8,7 @@ My research interests broadly lie in the connections among stable homotopy theor
 
 Preprints
 ======
-* __Higher algebra in t-structured tensor triangulated $\infty$-categories__ (joint with Xiangrui Shen; in preparation)<br>We observe that many concepts from Lurie's Higher Algebra can be generalized to the setting of t-structured tt-∞-categories, including notions such as flatness, and étale morphisms. Under suitable conditions on a tt-∞-category, we can establish Lazard's theorem, étale rigidity, and the universal property of the derived category, among others.
+* __Higher algebra in t-structured tensor triangulated $\infty$-categories__ (joint with Xiangrui Shen; in preparation)<br>We observe that many concepts from Lurie's Higher Algebra can be generalized to the setting of t-structured tt-∞-categories, including notions such as flatness, and étale morphisms. Under suitable conditions on a t-structured tt-∞-category, we can establish Lazard's theorem, étale rigidity, and the universal property of the derived category, among others.
 
 Talks and slides
 ======
