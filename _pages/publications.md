@@ -9,6 +9,7 @@ My research interests broadly lie in the connections among stable homotopy theor
 Preprints
 ======
 * __Higher algebra in t-structured tensor triangulated $\infty$-categories__ (joint with Xiangrui Shen; in preparation)<br>The flatness of a module over an $\mathbb{E}_\infty$-ring can be described as the t-exactness of the tensor product functor. This statement inspires us that many concepts from Lurie's Higher Algebra can be generalized to the setting of t-structured tt-∞-categories, including (faithful) flat and étale morphisms and so on. Under suitable conditions on a t-structured tt-∞-category, we can establish Lazard's theorem, étale rigidity, and the universal property of the derived category, among others.
+* __$\infty$-macrotopoi__ (in preparation)<br> Lars Hesselholt and Piotr Pstrągowski introduced the notion of ∞-Macrotopoi in the appendix of Dirac Geometry II. It provides an excellent categorical framework--large enough to encompass a rich class of geometric objects while remaining not too large and well-behaved, making it an ideal setting for addressing fpqc sheafification, and perfectly incorporating SAG's geometric stacks and even condensed mathematics. We will develop more and prove some basic properties of $\infty$-macrotopoi such as Giraud’s axioms.
 
 Talks and slides
 ======
