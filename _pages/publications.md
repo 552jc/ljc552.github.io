@@ -4,7 +4,7 @@ title: "Research Interests"
 permalink: /publications/
 author_profile: false
 ---
-My research interests broadly lie in the connections among stable homotopy theory, higher algebra and algebraic geometry like chromatic homotopy theory, elliptic cohomology, and spectral algebraic geometry (SAG). Specifically, I am interested in orientations from Thom spectra, rewritings of stable homotopy theory by higher algebra, reformulations of chromatic homotopy theory by SAG, and spectral moduli problems.
+My research interests broadly lie in the connections among stable homotopy theory, higher algebra, algebraic geometry and tt-geometry, like chromatic homotopy theory, elliptic cohomology, and abstract geometry on $\operatorname{CAlg}(\operatorname{Pr}_{st}^L)$ and $\operatorname{CAlg}(\operatorname{Pr}_{st}^{t-rex})$. Specifically, I am interested in orientations from Thom spectra, rewritings of stable homotopy theory by higher algebra, reformulations of chromatic homotopy theory by spectral algebraic geometry (SAG), spectral moduli problems, and higher algebra in t-structured tensor triangulated ∞-categories.
 
 Preprints
 ======
