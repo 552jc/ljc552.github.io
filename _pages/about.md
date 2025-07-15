@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at [Johns Hopkins University](https://mathematics.jhu.edu/), commencing in the Fall of 2024 under the supervision of Professor David Gepner. I am a visiting member of the Max Planck Institute in Bonn for Jan 20th-May 1st 2025. 
+I am a Ph.D. student at [Johns Hopkins University](https://mathematics.jhu.edu/), commencing in the Fall of 2024 under the supervision of Professor David Gepner. I was a visiting member of the Max Planck Institute in Bonn for Jan 20th-May 1st 2025. 
 
 My research interests lie in homotopy theory, higher algebra, and algebraic geometry.
 
