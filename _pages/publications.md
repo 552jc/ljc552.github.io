@@ -6,7 +6,7 @@ author_profile: false
 ---
 My research interests broadly lie in the connections among stable homotopy theory, higher algebra, algebraic geometry and algebraic K-theory. 
 
-Currently, I am interested in rewritings of stable (chromatic) homotopy theory by higher algebra, and higher algebra in generalized prestable framework.
+Currently, I am interested in higher algebra in generalized prestable framework, and rewritings of stable (chromatic) homotopy theory by higher algebra.
 
 Preprints
 ======
