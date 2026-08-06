@@ -1,10 +1,23 @@
 ---
-layout: single
-classes: wide
+layout: archive
 title: "Research Interests"
 permalink: /publications/
 author_profile: false
 ---
+
+<style>
+  /* 强制拉宽当前页面，取消给侧边栏预留的网格空位 */
+  .archive, .page {
+    width: 100% !important;
+    float: none !important;
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+  }
+  /* 彻底隐藏左侧侧边栏的占位 */
+  .sidebar {
+    display: none !important;
+  }
+</style>
 My research interests broadly lie in the connections among stable homotopy theory, higher algebra, algebraic geometry and algebraic K-theory. 
 
 Currently, I am mainly interested in higher algebra in general prestable categories, dualizable categories, and rewritings of chromatic homotopy theory in a modern way.
