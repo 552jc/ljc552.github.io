@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* 恢复侧边栏头像尺寸与大图布局 */
+.sidebar .author__avatar {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+.sidebar .author__avatar img {
+  max-width: 100% !important;
+  border-radius: 50% !important;
+}
+
+/* 恢复侧边栏浮动显示 */
+@media (min-width: 64em) {
+  .sidebar {
+    opacity: 1 !important;
+    visibility: visible !important;
+    width: calc(200px + 1em) !important;
+  }
+}
