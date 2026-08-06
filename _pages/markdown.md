@@ -7,6 +7,20 @@ redirect_from:
   - /markdown.html
 ---
 
+<style>
+  /* 强制拉宽当前页面，取消给侧边栏预留的网格空位 */
+  .archive, .page {
+    width: 100% !important;
+    float: none !important;
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+  }
+  /* 彻底隐藏左侧侧边栏占位 */
+  .sidebar {
+    display: none !important;
+  }
+</style>
+
 I write [blog posts](https://www.zhihu.com/people/liang-jia-cheng-60-11/posts) (most in Chinese) on mathematics as a means to organize what I have learnt and to communicate with others. Hopefully, they could also provide a glimpse of algebraic topology to students and scholars in different fields with interest in it.
 
 Posts
@@ -30,5 +44,3 @@ Posts
 * [球面高阶同伦群和Serre谱序列(Ⅰ)](https://zhuanlan.zhihu.com/p/70400562)<br>Homotopy groups of spheres and the Serre spectral sequence(I)
 * [克莱因瓶不能嵌入R^3](https://zhuanlan.zhihu.com/p/64397441)<br>The Klein bottle can't embed into $\mathbb{R}^{3}$
 * [点拓整合](https://zhuanlan.zhihu.com/p/105351309)<br>Some useful conclusions in point-set topology
-
-
