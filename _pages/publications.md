@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: single
+classes: wide
 title: "Research Interests"
 permalink: /publications/
 author_profile: false
