@@ -40,3 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   强制 Wide 页面（如 Research）取消侧边栏留白并居中拉宽
+   ========================================================================== */
+.wide .page,
+.wide .archive {
+  width: 100% !important;       /* 取消给侧边栏预留空间的设定 */
+  float: none !important;       /* 取消向右浮动 */
+  max-width: 1000px !important; /* 正文最大宽度，觉得不够宽可以改到 1100px */
+  margin: 0 auto !important;    /* 整体居中 */
+  padding-right: 0 !important; 
+}
