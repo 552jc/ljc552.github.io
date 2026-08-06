@@ -106,8 +106,8 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
-$large                      : 1280px !default; /* 从 925px 调整为 1280px 以拓宽页面 */
-$x-large                    : 1600px !default;
+$large                      : 1024px !default;
+$x-large                    : 1280px !default;
 
 /*
    Grid
@@ -119,12 +119,11 @@ $right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,
-  column-width: 120px,
   gutters: 1/4,
   math: fluid,
   output: float,
   gutter-position: after,
-  container: 1280px, /* 显式将网格容器设为 1280px，防止正文被压缩 */
+  container: $large,
   global-box-sizing: border-box,
 );
 
