@@ -8,16 +8,19 @@ redirect_from:
 ---
 
 <style>
-  /* 强制拉宽当前页面，取消给侧边栏预留的网格空位 */
-  .archive, .page {
-    width: 100% !important;
-    float: none !important;
-    max-width: 1000px !important;
-    margin: 0 auto !important;
-  }
   /* 彻底隐藏左侧侧边栏占位 */
   .sidebar {
     display: none !important;
+  }
+  /* 强制外层容器取消向右浮动并铺满可用区域 */
+  .page, .archive {
+    width: 100% !important;
+    float: none !important;
+    padding-right: 0 !important;
+  }
+  /* 解除内层正文区域的宽度限制（去除右侧大片留白） */
+  .page__inner-wrap {
+    max-width: 1200px !important;
   }
 </style>
 
