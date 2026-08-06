@@ -1,8 +1,10 @@
 ---
+layout: single
 permalink: /
 title: "Jiacheng Liang"
 excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
