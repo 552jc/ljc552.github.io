@@ -10,7 +10,7 @@ author_profile: false
   .archive, .page {
     width: 100% !important;
     float: none !important;
-    max-width: 1000px !important;
+    max-width: 1200px !important;
     margin: 0 auto !important;
   }
   /* 彻底隐藏左侧侧边栏的占位 */
