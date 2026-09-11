@@ -22,7 +22,7 @@ My research interests broadly lie in the connections among stable homotopy theor
 
 Currently, I am mainly interested in higher algebra in general prestable categories, dualizable categories, and rewritings of chromatic homotopy theory in a modern way.
 
-Preprints
+Preprints & Publications
 ======
 * __Generalized Telescope Conjecture__, <a href="https://arxiv.org/abs/2609.03375" style="font-size:0.8em; border:1px solid #b31b1b; color:#b31b1b; padding:1px 6px; border-radius:4px; text-decoration:none; font-weight:bold;">arXiv</a> 2026<br> Introduces the atomic smashing frame to generalize the Balmer Spectrum to any presentably symmetric monoidal $\infty$-category $\mathcal{V}$, and formulates the associated telescope conjecture. Resolves this conjecture in the settings of $\infty$-topoi and connective modules over connective $\mathbb{E}_\infty$-rings, establishes a recollement theorem in the stable setting, and introduces the Serre smashing frame.
 
