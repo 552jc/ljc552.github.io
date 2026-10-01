@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <style>
-  /* 强制拉宽当前页面，取消给侧边栏预留的网格空位 */
+  /* Force the page to use the full width */
   .archive, .page {
     width: 100% !important;
     float: none !important;
@@ -14,12 +14,26 @@ author_profile: false
     margin: 0 auto !important;
   }
 
-  /* 彻底隐藏左侧侧边栏的占位 */
+  /* Hide the sidebar */
   .sidebar {
     display: none !important;
   }
 
-  /* Collapsible publication and writing entries */
+  /* Publication rows: collapsible information on the left, arXiv button on the right */
+  .publication-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.7em;
+    margin: 0 0 1.1em 0;
+  }
+
+  .publication-row details.entry {
+    flex: 1;
+    min-width: 0;
+    margin: 0;
+  }
+
+  /* General collapsible entries */
   details.entry {
     margin: 0 0 1.1em 0;
     padding: 0;
@@ -43,7 +57,26 @@ author_profile: false
     margin: 0.35em 0;
   }
 
-  /* Only the long descriptions of talks are collapsible */
+  /* arXiv button */
+  .arxiv-button {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    font-size: 0.8em;
+    border: 1px solid #b31b1b;
+    color: #b31b1b !important;
+    padding: 1px 6px;
+    border-radius: 4px;
+    text-decoration: none !important;
+    font-weight: bold;
+    margin-top: 0.25em;
+  }
+
+  .arxiv-button:hover {
+    background: #b31b1b;
+    color: white !important;
+  }
+
+  /* Only talk abstracts are collapsible; venue/date remain visible */
   details.talk-description {
     margin: 0.3em 0 1em 1.4em;
   }
@@ -62,6 +95,12 @@ author_profile: false
     margin: 0.4em 0 0 0;
     line-height: 1.65;
   }
+
+  @media screen and (max-width: 600px) {
+    .publication-row {
+      gap: 0.4em;
+    }
+  }
 </style>
 
 My research interests broadly lie in the connections among stable homotopy theory, higher algebra, algebraic geometry and algebraic K-theory.
@@ -71,53 +110,57 @@ Currently, I am mainly interested in higher algebra in general prestable categor
 Preprints & Publications
 ======
 
-<details class="entry">
-  <summary>
-    <strong>Generalized Telescope Conjecture</strong>,
-    <a href="https://arxiv.org/abs/2609.03375" style="font-size:0.8em; border:1px solid #b31b1b; color:#b31b1b; padding:1px 6px; border-radius:4px; text-decoration:none; font-weight:bold;">arXiv</a>
-    2026
-  </summary>
-  <div class="entry-content">
-    Introduces the atomic smashing frame to generalize the Balmer Spectrum to any presentably symmetric monoidal $\infty$-category $\mathcal{V}$, and formulates the associated telescope conjecture. Resolves this conjecture in the settings of $\infty$-topoi and connective modules over connective $\mathbb{E}_\infty$-rings, establishes a recollement theorem in the stable setting, and introduces the Serre smashing frame.
-  </div>
-</details>
+<div class="publication-row">
+  <details class="entry">
+    <summary>
+      <strong>Generalized Telescope Conjecture</strong>, 2026
+    </summary>
+    <div class="entry-content">
+      Introduces the atomic smashing frame to generalize the Balmer Spectrum to any presentably symmetric monoidal $\infty$-category $\mathcal{V}$, and formulates the associated telescope conjecture. Resolves this conjecture in the settings of $\infty$-topoi and connective modules over connective $\mathbb{E}_\infty$-rings, establishes a recollement theorem in the stable setting, and introduces the Serre smashing frame.
+    </div>
+  </details>
+  <a class="arxiv-button" href="https://arxiv.org/abs/2609.03375">arXiv</a>
+</div>
 
-<details class="entry">
-  <summary>
-    <strong>Dualizable Additive Categories</strong>,
-    <a href="https://arxiv.org/abs/2608.04898" style="font-size:0.8em; border:1px solid #b31b1b; color:#b31b1b; padding:1px 6px; border-radius:4px; text-decoration:none; font-weight:bold;">arXiv</a>
-    2026, joint with
-    <a href="https://ishanina.github.io/">Ishan Levy</a>
-    and
-    <a href="https://vova-sosnilo.com/index.html">Vova Sosnilo</a>
-  </summary>
-  <div class="entry-content">
-    Characterizes dualizable additive $\infty$-categories as separated Grothendieck prestable $\infty$-categories satisfying $\mathrm{AB4}^*$ and $\mathrm{AB6}$, identifies them with connective almost modules over almost connective $\mathbb{E}_{1}$-rings. Characterizes connective nuclear modules $\mathrm{Nuc}(R)_{\ge 0}$ in the sense of Clausen--Scholze as the additive rigidification of $\mathrm{Mod}_{R,\geq 0}^{\mathrm{cpl}}$. Also introduces prestable motives.
-  </div>
-</details>
+<div class="publication-row">
+  <details class="entry">
+    <summary>
+      <strong>Dualizable Additive Categories</strong>, 2026, joint with
+      <a href="https://ishanina.github.io/">Ishan Levy</a>
+      and
+      <a href="https://vova-sosnilo.com/index.html">Vova Sosnilo</a>
+    </summary>
+    <div class="entry-content">
+      Characterizes dualizable additive $\infty$-categories as separated Grothendieck prestable $\infty$-categories satisfying $\mathrm{AB4}^*$ and $\mathrm{AB6}$, identifies them with connective almost modules over almost connective $\mathbb{E}_{1}$-rings. Characterizes connective nuclear modules $\mathrm{Nuc}(R)_{\ge 0}$ in the sense of Clausen--Scholze as the additive rigidification of $\mathrm{Mod}_{R,\geq 0}^{\mathrm{cpl}}$. Also introduces prestable motives.
+    </div>
+  </details>
+  <a class="arxiv-button" href="https://arxiv.org/abs/2608.04898">arXiv</a>
+</div>
 
-<details class="entry">
-  <summary>
-    <strong>Smashing, Balmer, Zariski spectra: an ideal approach</strong>,
-    <a href="https://arxiv.org/abs/2607.13329" style="font-size:0.8em; border:1px solid #b31b1b; color:#b31b1b; padding:1px 6px; border-radius:4px; text-decoration:none; font-weight:bold;">arXiv</a>
-    2026, joint with
-    <a href="https://people.ucsc.edu/~czou3/">Changhan Zou</a>
-  </summary>
-  <div class="entry-content">
-    We introduce a general Zariski frame functor to unify Zariski, Balmer and smashing spectrum. We introduce the notion of $\Sigma$-triviality for a pointed $\infty$-category, which allows the quotient by an ideal in it. We show that the $\Sigma$-trivialization of the $\infty$-category of spaces is a mode.
-  </div>
-</details>
+<div class="publication-row">
+  <details class="entry">
+    <summary>
+      <strong>Smashing, Balmer, Zariski spectra: an ideal approach</strong>, 2026, joint with
+      <a href="https://people.ucsc.edu/~czou3/">Changhan Zou</a>
+    </summary>
+    <div class="entry-content">
+      We introduce a general Zariski frame functor to unify Zariski, Balmer and smashing spectrum. We introduce the notion of $\Sigma$-triviality for a pointed $\infty$-category, which allows the quotient by an ideal in it. We show that the $\Sigma$-trivialization of the $\infty$-category of spaces is a mode.
+    </div>
+  </details>
+  <a class="arxiv-button" href="https://arxiv.org/abs/2607.13329">arXiv</a>
+</div>
 
-<details class="entry">
-  <summary>
-    <strong>Higher algebra in $t$-structured tensor triangulated $\infty$-categories</strong>,
-    <a href="https://arxiv.org/abs/2603.27786" style="font-size:0.8em; border:1px solid #b31b1b; color:#b31b1b; padding:1px 6px; border-radius:4px; text-decoration:none; font-weight:bold;">arXiv</a>
-    2026; to appear in <i>Selecta Mathematica</i>.
-  </summary>
-  <div class="entry-content">
-    Extends higher algebra concepts (finitely presented, flat, and étale morphisms) to $t$-structured tensor triangulated $\infty$-categories. Under “projective rigidity”—a condition shown to hold for spectra, filtered/graded spectra, genuine $G$-spectra, and Artin–Tate motivic spectra—we establish analogues of Lazard’s theorem, étale rigidity, and the universal property of the derived category.
-  </div>
-</details>
+<div class="publication-row">
+  <details class="entry">
+    <summary>
+      <strong>Higher algebra in $t$-structured tensor triangulated $\infty$-categories</strong>, 2026; to appear in <i>Selecta Mathematica</i>.
+    </summary>
+    <div class="entry-content">
+      Extends higher algebra concepts (finitely presented, flat, and étale morphisms) to $t$-structured tensor triangulated $\infty$-categories. Under “projective rigidity”—a condition shown to hold for spectra, filtered/graded spectra, genuine $G$-spectra, and Artin–Tate motivic spectra—we establish analogues of Lazard’s theorem, étale rigidity, and the universal property of the derived category.
+    </div>
+  </details>
+  <a class="arxiv-button" href="https://arxiv.org/abs/2603.27786">arXiv</a>
+</div>
 
 Talks and slides
 ======
@@ -128,22 +171,8 @@ Talks and slides
 * [Picard $\infty$-groupoids, Picard groups of $E_\infty$-rings and generalized Thom spectra](https://552jc.github.io/ljc552.github.io/files/Picard_ljc.pdf)<br>
   Graduate Topology Seminar at SUSTech, 2024/4/23
 
-  <details class="talk-description">
-    <summary>Abstract / description</summary>
-    <div class="entry-content">
-      In this talk, we will introduce the Picard $\infty$-groupoids and calculate Picard groups of several $\mathbb{E}_\infty$-rings, like K-theory spectra and topological modular forms. Besides, we also introduce how to generalize the Thom spectrum functor into any presentably symmetric monoidal $\infty$-category, by using the universal property of Picard $\infty$-groupoids.
-    </div>
-  </details>
-
 * [Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories](https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf)<br>
   Graduate Topology Seminar at SUSTech, 2024/3/19
-
-  <details class="talk-description">
-    <summary>Abstract / description</summary>
-    <div class="entry-content">
-      In this talk, we will introduce the $\infty$-categorical version of the Barr-Beck theorem, Morita theory and Brauer groups. And we will see that the Brauer group $\operatorname{Br}(\mathbb{S})$ of the sphere spectrum is zero using the spectral sequence involving the etale cohomology by Antieau–Gepner's work in 2012.
-    </div>
-  </details>
 
 * [An overview of $\infty$-categories and higher algebra](https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf)<br>
   Graduate Topology Seminar at SUSTech, 2023/12/26
@@ -188,7 +217,7 @@ Writings
 
 <details class="entry">
   <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/thomsp.pdf">The Right Adjunction of Thom Spectrum Functor</a>
+    <a href="https://552jc.github.io/ljc552.github.io/files/thomsp.pdf">The Right Adjunction of Thom spectrum Functor</a>
   </summary>
   <div class="entry-content">
     A specific description of the right adjoint functor to Thom spectrum functor, which is given by the total space of a fiber bundle with fibers infinite loop spaces.
