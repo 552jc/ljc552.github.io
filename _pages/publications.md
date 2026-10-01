@@ -88,26 +88,6 @@ author_profile: false
     display: block;
   }
 
-  /* ---------- Writings ---------- */
-
-  details.entry {
-    margin: 0 0 1.1em 0;
-    padding: 0;
-  }
-
-  details.entry summary {
-    cursor: pointer;
-    line-height: 1.65;
-  }
-
-  details.entry summary:hover {
-    color: #b31b1b;
-  }
-
-  details.entry .entry-content {
-    margin: 0.45em 0 0.2em 1.4em;
-    line-height: 1.65;
-  }
 
   /* ---------- Talk descriptions ---------- */
 
