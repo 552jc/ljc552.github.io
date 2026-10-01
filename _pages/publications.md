@@ -19,16 +19,20 @@ author_profile: false
     display: none !important;
   }
 
-  /* Publication rows: collapsible information on the left, arXiv button on the right */
+  /* Publication rows:
+     title/summary is collapsible; arXiv is an independent button
+     kept on the same first line. */
   .publication-row {
     display: flex;
+    flex-wrap: nowrap;
     align-items: flex-start;
-    gap: 0.7em;
+    gap: 0.6em;
     margin: 0 0 1.1em 0;
+    width: 100%;
   }
 
   .publication-row details.entry {
-    flex: 1;
+    flex: 1 1 auto;
     min-width: 0;
     margin: 0;
   }
@@ -57,18 +61,20 @@ author_profile: false
     margin: 0.35em 0;
   }
 
-  /* arXiv button */
+  /* Independent arXiv button */
   .arxiv-button {
     flex: 0 0 auto;
+    align-self: flex-start;
     white-space: nowrap;
     font-size: 0.8em;
+    line-height: 1.2;
     border: 1px solid #b31b1b;
     color: #b31b1b !important;
-    padding: 1px 6px;
+    padding: 2px 6px;
     border-radius: 4px;
     text-decoration: none !important;
     font-weight: bold;
-    margin-top: 0.25em;
+    margin-top: 0.2em;
   }
 
   .arxiv-button:hover {
@@ -96,9 +102,15 @@ author_profile: false
     line-height: 1.65;
   }
 
+  /* Keep the arXiv button on the same row also on narrow screens */
   @media screen and (max-width: 600px) {
     .publication-row {
       gap: 0.4em;
+    }
+
+    .arxiv-button {
+      font-size: 0.75em;
+      padding: 2px 5px;
     }
   }
 </style>
@@ -112,9 +124,7 @@ Preprints & Publications
 
 <div class="publication-row">
   <details class="entry">
-    <summary>
-      <strong>Generalized Telescope Conjecture</strong>, 2026
-    </summary>
+    <summary><strong>Generalized Telescope Conjecture</strong>, 2026</summary>
     <div class="entry-content">
       Introduces the atomic smashing frame to generalize the Balmer Spectrum to any presentably symmetric monoidal $\infty$-category $\mathcal{V}$, and formulates the associated telescope conjecture. Resolves this conjecture in the settings of $\infty$-topoi and connective modules over connective $\mathbb{E}_\infty$-rings, establishes a recollement theorem in the stable setting, and introduces the Serre smashing frame.
     </div>
@@ -124,12 +134,7 @@ Preprints & Publications
 
 <div class="publication-row">
   <details class="entry">
-    <summary>
-      <strong>Dualizable Additive Categories</strong>, 2026, joint with
-      <a href="https://ishanina.github.io/">Ishan Levy</a>
-      and
-      <a href="https://vova-sosnilo.com/index.html">Vova Sosnilo</a>
-    </summary>
+    <summary><strong>Dualizable Additive Categories</strong>, 2026, joint with <a href="https://ishanina.github.io/">Ishan Levy</a> and <a href="https://vova-sosnilo.com/index.html">Vova Sosnilo</a></summary>
     <div class="entry-content">
       Characterizes dualizable additive $\infty$-categories as separated Grothendieck prestable $\infty$-categories satisfying $\mathrm{AB4}^*$ and $\mathrm{AB6}$, identifies them with connective almost modules over almost connective $\mathbb{E}_{1}$-rings. Characterizes connective nuclear modules $\mathrm{Nuc}(R)_{\ge 0}$ in the sense of Clausen--Scholze as the additive rigidification of $\mathrm{Mod}_{R,\geq 0}^{\mathrm{cpl}}$. Also introduces prestable motives.
     </div>
@@ -139,10 +144,7 @@ Preprints & Publications
 
 <div class="publication-row">
   <details class="entry">
-    <summary>
-      <strong>Smashing, Balmer, Zariski spectra: an ideal approach</strong>, 2026, joint with
-      <a href="https://people.ucsc.edu/~czou3/">Changhan Zou</a>
-    </summary>
+    <summary><strong>Smashing, Balmer, Zariski spectra: an ideal approach</strong>, 2026, joint with <a href="https://people.ucsc.edu/~czou3/">Changhan Zou</a></summary>
     <div class="entry-content">
       We introduce a general Zariski frame functor to unify Zariski, Balmer and smashing spectrum. We introduce the notion of $\Sigma$-triviality for a pointed $\infty$-category, which allows the quotient by an ideal in it. We show that the $\Sigma$-trivialization of the $\infty$-category of spaces is a mode.
     </div>
@@ -152,9 +154,7 @@ Preprints & Publications
 
 <div class="publication-row">
   <details class="entry">
-    <summary>
-      <strong>Higher algebra in $t$-structured tensor triangulated $\infty$-categories</strong>, 2026; to appear in <i>Selecta Mathematica</i>.
-    </summary>
+    <summary><strong>Higher algebra in $t$-structured tensor triangulated $\infty$-categories</strong>, 2026; to appear in <i>Selecta Mathematica</i>.</summary>
     <div class="entry-content">
       Extends higher algebra concepts (finitely presented, flat, and étale morphisms) to $t$-structured tensor triangulated $\infty$-categories. Under “projective rigidity”—a condition shown to hold for spectra, filtered/graded spectra, genuine $G$-spectra, and Artin–Tate motivic spectra—we establish analogues of Lazard’s theorem, étale rigidity, and the universal property of the derived category.
     </div>
