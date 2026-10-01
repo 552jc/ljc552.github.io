@@ -234,7 +234,7 @@ Writings
     <label class="writing-title" for="writing-1">
       <strong>Copointedlization and costabilization</strong>
     </label>
-    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/Sp_fin.pdf">[PDF]</a>
+    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/Sp_fin.pdf">PDF</a>
   </div>
   <div class="writing-description">
     A concrete model of costabilization.
@@ -248,7 +248,7 @@ Writings
     <label class="writing-title" for="writing-2">
       <strong>Elliptic cohomology theories and the $\sigma$-orientation</strong>
     </label>
-    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf">[PDF]</a>
+    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/sigmaorientation.pdf">PDF</a>
   </div>
   <div class="writing-description">
     Ando-Hopkins-Strickland found a special orientation from $MU\langle 6\rangle$ to elliptic cohomology theories, called $\sigma$-orientation. In this note we will give both topological and algebro-geometric settings of $\sigma$-orientation. Furthermore, we will introduce the precise definitions of formal groups, line bundles on a formal group, and particularly the $n$-connective cover of an $E_{\infty}$-space, which seems not well-described in ordinary references.
@@ -261,7 +261,7 @@ Writings
     <label class="writing-title" for="writing-3">
       <strong>The Right Adjunction of Thom Spectrum Functor</strong>
     </label>
-    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/thomsp.pdf">[PDF]</a>
+    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/thomsp.pdf">PDF</a>
   </div>
   <div class="writing-description">
     A specific description of the right adjoint functor to Thom spectrum functor, which is given by the total space of a fiber bundle with fibers infinite loop spaces.
@@ -274,7 +274,7 @@ Writings
     <label class="writing-title" for="writing-4">
       <strong>Notes on elliptic curves and abelian varieties</strong>
     </label>
-    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf">[PDF]</a>
+    <a class="pdf-link" href="https://552jc.github.io/ljc552.github.io/files/Ellabvar.pdf">PDF</a>
   </div>
   <div class="writing-description">
     This note will provide an introduction to formal groups, elliptic curves and abelian varieties. We first how to get a natural formal group from a smooth group variety. Second we prove that any elliptic curve admits a natural structure of group variety by a technique about relative effective Cartier divisor. After that, we introduce étale-local decomposition and the quotient scheme. In the last chapter we will see that elliptic curves are exactly abelian varieties of $\operatorname{dim}=1$ and that any abelian variety is automatically commutative, smooth and projective. Furthermore we can see that the group structure on an abelian variety is unique under a prescribed unit.
