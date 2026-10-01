@@ -19,7 +19,7 @@ author_profile: false
     display: none !important;
   }
 
-  /* Collapsible entries */
+  /* Collapsible publication and writing entries */
   details.entry {
     margin: 0 0 1.1em 0;
     padding: 0;
@@ -41,6 +41,26 @@ author_profile: false
 
   details.entry .entry-content p {
     margin: 0.35em 0;
+  }
+
+  /* Only the long descriptions of talks are collapsible */
+  details.talk-description {
+    margin: 0.3em 0 1em 1.4em;
+  }
+
+  details.talk-description summary {
+    cursor: pointer;
+    font-size: 0.92em;
+    color: #777;
+  }
+
+  details.talk-description summary:hover {
+    color: #b31b1b;
+  }
+
+  details.talk-description .entry-content {
+    margin: 0.4em 0 0 0;
+    line-height: 1.65;
   }
 </style>
 
@@ -102,88 +122,46 @@ Preprints & Publications
 Talks and slides
 ======
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/infty_topos.pdf">$\infty$-topoi and parametrized homotopy theory</a>
-  </summary>
-  <div class="entry-content">
-    Graduate Topology Seminar at SUSTech, 2024/6/17
-  </div>
-</details>
+* [$\infty$-topoi and parametrized homotopy theory](https://552jc.github.io/ljc552.github.io/files/infty_topos.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2024/6/17
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/Picard_ljc.pdf">Picard $\infty$-groupoids, Picard groups of $E_\infty$-rings and generalized Thom spectra</a>
-  </summary>
-  <div class="entry-content">
-    <p>Graduate Topology Seminar at SUSTech, 2024/4/23</p>
-    <p>In this talk, we will introduce the Picard $\infty$-groupoids and calculate Picard groups of several $\mathbb{E}_\infty$-rings, like K-theory spectra and topological modular forms. Besides, we also introduce how to generalize the Thom spectrum functor into any presentably symmetric monoidal $\infty$-category, by using the universal property of Picard $\infty$-groupoids.</p>
-  </div>
-</details>
+* [Picard $\infty$-groupoids, Picard groups of $E_\infty$-rings and generalized Thom spectra](https://552jc.github.io/ljc552.github.io/files/Picard_ljc.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2024/4/23
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf">Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories</a>
-  </summary>
-  <div class="entry-content">
-    <p>Graduate Topology Seminar at SUSTech, 2024/3/19</p>
-    <p>In this talk, we will introduce the $\infty$-categorical version of the Barr-Beck theorem, Morita theory and Brauer groups. And we will see that the Brauer group $\operatorname{Br}(\mathbb{S})$ of the sphere spectrum is zero using the spectral sequence involving the etale cohomology by Antieau–Gepner's work in 2012.</p>
-  </div>
-</details>
+  <details class="talk-description">
+    <summary>Abstract / description</summary>
+    <div class="entry-content">
+      In this talk, we will introduce the Picard $\infty$-groupoids and calculate Picard groups of several $\mathbb{E}_\infty$-rings, like K-theory spectra and topological modular forms. Besides, we also introduce how to generalize the Thom spectrum functor into any presentably symmetric monoidal $\infty$-category, by using the universal property of Picard $\infty$-groupoids.
+    </div>
+  </details>
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf">An overview of $\infty$-categories and higher algebra</a>
-  </summary>
-  <div class="entry-content">
-    Graduate Topology Seminar at SUSTech, 2023/12/26
-  </div>
-</details>
+* [Barr-Beck Theorem, Morita theory and Brauer groups in $\infty$-categories](https://552jc.github.io/ljc552.github.io/files/Morita_theory.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2024/3/19
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/Orientation.pdf">The σ-orientation and its AHR $\mathbb{E}_{\infty}$-refinement $MString\to tmf$</a>
-  </summary>
-  <div class="entry-content">
-    IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, 2023/08/17
-  </div>
-</details>
+  <details class="talk-description">
+    <summary>Abstract / description</summary>
+    <div class="entry-content">
+      In this talk, we will introduce the $\infty$-categorical version of the Barr-Beck theorem, Morita theory and Brauer groups. And we will see that the Brauer group $\operatorname{Br}(\mathbb{S})$ of the sphere spectrum is zero using the spectral sequence involving the etale cohomology by Antieau–Gepner's work in 2012.
+    </div>
+  </details>
 
-<details class="entry">
-  <summary>
-    <a href="https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf">Thom spectra, infinite loop spaces, generalized cocycles, and the $\sigma$-orientation</a>
-  </summary>
-  <div class="entry-content">
-    Graduate Topology Seminar at SUSTech, 2023/05/23
-  </div>
-</details>
+* [An overview of $\infty$-categories and higher algebra](https://552jc.github.io/ljc552.github.io/files/Higher_algebra_ljc.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2023/12/26
 
-<details class="entry">
-  <summary>
-    <a href="https://sustech-topology.github.io/grad/22fal/FormalGeometry.pdf">Sites, Sheaves, Formal Groups and Stacks</a>
-  </summary>
-  <div class="entry-content">
-    Graduate Topology Seminar at SUSTech, 2022/12/06
-  </div>
-</details>
+* [The σ-orientation and its AHR $\mathbb{E}_{\infty}$-refinement $MString\to tmf$](https://552jc.github.io/ljc552.github.io/files/Orientation.pdf)<br>
+  IWoAT Summer School 2023: Operads, spectra, and multiplicative structures, BIMSA, Beijing, China, 2023/08/17
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/Thesis.pdf">Elliptic curves and Abelian varieties</a>
-  </summary>
-  <div class="entry-content">
-    Undergraduate topology seminar, Sichuan University, 2022/05/30
-  </div>
-</details>
+* [Thom spectra, infinite loop spaces, generalized cocycles, and the $\sigma$-orientation](https://sustech-topology.github.io/grad/23spr/0523-Liang.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2023/05/23
 
-<details class="entry">
-  <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/2021_12_28.pdf">The Stable homotopy theory and EKMM framework</a>
-  </summary>
-  <div class="entry-content">
-    Graduate Topology Seminar at SUSTech, 2021/11/18
-  </div>
-</details>
+* [Sites, Sheaves, Formal Groups and Stacks](https://sustech-topology.github.io/grad/22fal/FormalGeometry.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2022/12/06
+
+* [Elliptic curves and Abelian varieties](https://552jc.github.io/ljc552.github.io/files/Thesis.pdf)<br>
+  Undergraduate topology seminar, Sichuan University, 2022/05/30
+
+* [The Stable homotopy theory and EKMM framework](https://552jc.github.io/ljc552.github.io/files/2021_12_28.pdf)<br>
+  Graduate Topology Seminar at SUSTech, 2021/11/18
 
 Writings
 ======
@@ -210,7 +188,7 @@ Writings
 
 <details class="entry">
   <summary>
-    <a href="https://552jc.github.io/ljc552.github.io/files/thomsp.pdf">The Right Adjunction of Thom spectrum Functor</a>
+    <a href="https://552jc.github.io/ljc552.github.io/files/thomsp.pdf">The Right Adjunction of Thom Spectrum Functor</a>
   </summary>
   <div class="entry-content">
     A specific description of the right adjoint functor to Thom spectrum functor, which is given by the total space of a fiber bundle with fibers infinite loop spaces.
