@@ -175,7 +175,12 @@ Preprints & Publications
 
 Talks and slides
 ======
+* Dualizable Additive Categories<br>
+  Topology Seminar at the University of Chicago, 2026/10/13
 
+* Generalized Telescope Conjecture<br>
+  Topology Seminar at Northwestern University, 2026/10/12
+  
 * [$\infty$-topoi and parametrized homotopy theory](https://552jc.github.io/ljc552.github.io/files/infty_topos.pdf)<br>
   Graduate Topology Seminar at SUSTech, 2024/6/17
 
