@@ -175,6 +175,9 @@ Preprints & Publications
 
 Talks and slides
 ======
+* [Dualizable Additive Categories](https://552jc.github.io/ljc552.github.io/files/upenn_dual_add.pdf)<br>
+  AMTRaK Conference, University of Pennsylvania, 2026/10/23
+
 * Dualizable Additive Categories<br>
   Topology Seminar at the University of Chicago, 2026/10/13
 
