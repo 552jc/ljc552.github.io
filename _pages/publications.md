@@ -175,10 +175,10 @@ Preprints & Publications
 
 Talks and slides
 ======
-* [Generalized Telescope Conjecture](https://552jc.github.io/ljc552.github.io/files/gen_tel.pdf)<br>
+* [Generalized Telescope Conjecture](https://552jc.github.io/ljc552.github.io/files/gen_tel.pdf), [video](https://www.youtube.com/watch?v=Fo1UAUAXuow)
+<br>
   New Directions in Group Theory and Triangulated Categories, 2026/11/19  
-  [video](https://www.youtube.com/watch?v=Fo1UAUAXuow)
-
+  
 * [Dualizable Additive Categories](https://552jc.github.io/ljc552.github.io/files/upenn_dual_add.pdf)<br>
   AMTRaK Conference, University of Pennsylvania, 2026/10/23
 
